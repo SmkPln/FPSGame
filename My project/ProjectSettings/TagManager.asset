@@ -7,6 +7,8 @@ TagManager:
   - Ground
   - WeaponCamera
   - AmmoTextObject
+  - StartShootPosition
+  - Enemy
   layers:
   - Default
   - TransparentFX
