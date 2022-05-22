@@ -1,4 +1,4 @@
 # FPSGame
 Гра на Unity в жанрі FPS
 # 
-Посилання на гугл диск з ігрою: https://drive.google.com/drive/folders/18MmDDLEMKhYRW2VlqNKw21cZGUfl2sT3?usp=sharing
+Посилання на гугл диск з ігрою: https://drive.google.com/drive/folders/1CKikiCyhpfvbZQUoEcflihJBrqH0P4Ht?usp=sharing
